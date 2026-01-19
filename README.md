@@ -2,6 +2,4 @@
 ...
 base
 ....
- dsdd
-swswsws
-swsqwsws
+ base
